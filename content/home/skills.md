@@ -28,6 +28,12 @@ weight = 7
   description = "90%"
   
 [[feature]]
+  icon = ""
+  icon_pack = "fab"
+  name = "Julia"
+  description = "5%"
+  
+[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
